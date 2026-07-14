@@ -1,3 +1,6 @@
+# Palo Alto Decryption Exceptions
+# One domain or IP per line
+
 login.microsoftonline.com
 device.login.microsoftonline.com
 autologon.microsoftazuread-sso.com
