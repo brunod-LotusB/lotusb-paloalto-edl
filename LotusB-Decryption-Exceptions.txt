@@ -1,5 +1,5 @@
 # Palo Alto Decryption Exceptions
-# One domain or IP per line
+# One domain per line
 
 login.microsoftonline.com
 device.login.microsoftonline.com
